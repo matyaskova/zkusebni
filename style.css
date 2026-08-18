@@ -1,4 +1,10 @@
 body{background-color: cyan;}
 h1{color: gold;
+<<<<<<< HEAD
+font-size: 24px;
+text-align: center;}
+=======
 font-size: 24px;
 align: center;}
+
+>>>>>>> f6cddf131fabdadb27b3213abc96ac91821d692b
